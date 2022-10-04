@@ -36,6 +36,9 @@ function Header() {
 				<div>{notif_icon}</div>
 				<img src={userImg} alt="userimage" className="w-8 h-8 rounded-full object-cover object-center" />
 			</div>
+			<div>
+				Everybody
+			</div>
 		</div>
 	);
 }
